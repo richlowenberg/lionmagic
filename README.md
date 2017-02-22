@@ -4,7 +4,8 @@ Lion Magic is a simple VR game for toddlers where lions run towards the player, 
 Pull requests welcome!
 
 ##Requirements
-Lion Magic is currently made for HTC Vive, although it would likely be trivial to adopt on other platforms.
+* HTC Vive and decent PC
+* Toddler
 
 ##Installation
 * Clone or download this repository
